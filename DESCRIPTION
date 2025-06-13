@@ -13,5 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     fs
-URL: https://github.com/CarolineOhrman/libminer
+URL: https://github.com/CarolineOhrman/libminer, https://carolineohrman.github.io/libminer/
 BugReports: https://github.com/CarolineOhrman/libminer/issues
